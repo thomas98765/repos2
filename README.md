@@ -16,3 +16,4 @@ modification dans la branche b01
 =======
 modif pdt la branche
 
+modif avant git stash dans master
